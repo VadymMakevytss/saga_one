@@ -5,6 +5,7 @@ import { Routes, Route, BrowserRouter as Router  } from 'react-router-dom';
 
 import App from './App';
 import { Provider } from 'react-redux';
+// Some commit
 import store from './redux'
 import { history } from './redux/reducers';
 import { ConnectedRouter } from 'connected-react-router';
